@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Noah';
+    src: url('../fonts/Noah-Regular.eot');
+    src: url('../fonts/Noah-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Noah-Regular.woff2') format('woff2'),
+        url('../fonts/Noah-Regular.woff') format('woff'),
+        url('../fonts/Noah-Regular.ttf') format('truetype'),
+        url('../fonts/Noah-Regular.otf') format("opentype");
+}
+
+@font-face {
+    font-family: 'Noah';
+    font-style: italic;
+    src: url('../fonts/Noah-RegularItalic.eot');
+    src: url('../fonts/Noah-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Noah-RegularItalic.woff2') format('woff2'),
+        url('../fonts/Noah-RegularItalic.woff') format('woff'),
+        url('../fonts/Noah-RegularItalic.ttf') format('truetype'),
+        url('../fonts/Noah-RegularItalic.otf') format("opentype");
+}
+
+@font-face {
+    font-family: 'Noah';
+    font-weight: bold;
+    src: url('../fonts/Noah-Bold.eot');
+    src: url('../fonts/Noah-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Noah-Bold.woff2') format('woff2'),
+        url('../fonts/Noah-Bold.woff') format('woff'),
+        url('../fonts/Noah-Bold.ttf') format('truetype'),
+        url('../fonts/Noah-Bold.otf') format("opentype");
+}
+
+@font-face {
+    font-family: 'Noah';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../fonts/Noah-BoldItalic.eot');
+    src: url('../fonts/Noah-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Noah-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Noah-BoldItalic.woff') format('woff'),
+        url('../fonts/Noah-BoldItalic.ttf') format('truetype'),
+        url('../fonts/Noah-BoldItalic.otf') format("opentype");
+}

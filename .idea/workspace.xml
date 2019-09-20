@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a214dac-ad1b-4736-ae40-6c0760a86e93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style/partials/section-2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/partials/section-2.scss" afterDir="false" />
     </list>
@@ -64,7 +63,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/template/section-3.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="281">
+                <state relative-caret-position="-76">
                   <caret line="76" column="54" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
                 </state>
               </provider>
@@ -121,8 +120,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/style/partials/section-2.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="350">
-                  <caret line="226" column="20" selection-start-line="226" selection-start-column="20" selection-end-line="226" selection-end-column="20" />
+                <state relative-caret-position="253">
+                  <caret line="505" column="21" selection-start-line="505" selection-start-column="21" selection-end-line="505" selection-end-column="21" />
                   <folding>
                     <element signature="e#114#555#0" />
                     <element signature="e#513#549#0" />
@@ -350,12 +349,12 @@
       <workItem from="1568990948593" duration="915000" />
       <workItem from="1568993308571" duration="112000" />
       <workItem from="1568994333712" duration="76000" />
-      <workItem from="1568995042009" duration="500000" />
+      <workItem from="1568995042009" duration="972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22150000" />
+    <option name="totallyTimeSpent" value="22622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -363,12 +362,12 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49492386" visible="true" weight="0.17249602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Gulp" order="2" sideWeight="0.50507617" side_tool="true" visible="true" weight="0.17249602" />
+      <window_info id="Gulp" order="2" sideWeight="0.50507617" side_tool="true" visible="true" weight="0.17249602" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14626218" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14626218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,7 +437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/template/section-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="-76">
           <caret line="76" column="54" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
         </state>
       </provider>
@@ -519,8 +518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/section-2.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="226" column="20" selection-start-line="226" selection-start-column="20" selection-end-line="226" selection-end-column="20" />
+        <state relative-caret-position="253">
+          <caret line="505" column="21" selection-start-line="505" selection-start-column="21" selection-end-line="505" selection-end-column="21" />
           <folding>
             <element signature="e#114#555#0" />
             <element signature="e#513#549#0" />

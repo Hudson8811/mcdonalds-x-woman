@@ -504,6 +504,9 @@
     }
     .section-2 .year-4 .bottom{
         display: none;
+        img{
+            display: none !important;
+        }
     }
     .section-2 .year-4 .date {
         top: 90px;

@@ -101,4 +101,18 @@ $(document).ready(function () {
             cssTo: { right: '300px' }
         }
     ]);
+
+
+    $('header .menu a').on('click', function () {
+        var el = $(this);
+        var dest = el.attr('href');
+        if (dest !== undefined && dest !== '') {
+            $('body').removeClass('blocked');
+            $('html').animate({
+                    scrollTop: $(dest).offset().top  -90
+                }, 500
+            );
+        }
+        return false;
+    });
 });

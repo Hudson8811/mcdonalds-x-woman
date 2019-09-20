@@ -50,7 +50,7 @@
         font-weight: bold;
         line-height: 24px;
         text-align: center;
-
+        padding: 0 10px;
     }
 
     .year {
@@ -242,7 +242,7 @@
         .right {
             padding-top: 78px;
             padding-left: 51px;
-
+            padding-bottom: 100px;
             .text {
                 width: 280px;
                 padding-bottom: 22px;
@@ -251,6 +251,117 @@
             .btn {
                 position: relative;
                 left: -4px;
+            }
+        }
+    }
+
+    .year-4{
+        width: 865px;
+        margin: 0 auto;
+        position: relative;
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 536px;
+            background: #ffbd0e;
+            height: 2px;
+        }
+        .date {
+            left: 26.2%;
+            top: -12px;
+        }
+        border-bottom: 2px solid #ffbd0e;
+        border-left: 2px solid #ffbd0e;
+        .right{
+            padding: 50px 45px 165px 233px;
+            box-sizing: border-box;
+            width: 100%;
+        }
+        .left{
+            position: absolute;
+            left: -42px;
+            top: -76px;
+        }
+        .bottom{
+            position: absolute;
+            left: 220px;
+            bottom: 0;
+        }
+    }
+
+    .year-5{
+        width: 810px;
+        padding-left: 55px;
+        display: flex;
+        border-right: 2px solid #ffbd0e;
+        margin: 0 auto;
+        justify-content: space-between;
+        position: relative;
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            right: -2px;
+            bottom: -2px;
+            width: 500px;
+            background: #ffbd0e;
+            height: 2px;
+        }
+        .date {
+            left: 7.2%;
+            top: -12px;
+        }
+        .left{
+            padding: 50px 0 57px;
+            width: 300px;
+            .btn{
+                margin-top: 20px;
+            }
+        }
+        .right{
+            padding-top: 15px;
+            padding-right: 25px;
+        }
+    }
+    .year-6{
+        width: 770px;
+        border-left: 2px solid #ffbd0e;
+        border-top: 2px solid #ffbd0e;
+        margin: 0 auto;
+        position: relative;
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            left: -2px;
+            bottom: -48px;
+            height: 48px;
+            background: #ffbd0e;
+            width: 2px;
+        }
+        .date {
+            left: 20.2%;
+            top: -12px;
+        }
+        .left{
+            position: absolute;
+            left: -91px;
+            top: 40px;
+        }
+        .top{
+            padding: 50px 0 0 180px;
+            width: 600px;
+        }
+        .bottom{
+            margin: 40px 0 0 70px;
+            position: relative;
+            .front{
+                position: absolute;
+                bottom: 97px;
+                right: 10px;
             }
         }
     }

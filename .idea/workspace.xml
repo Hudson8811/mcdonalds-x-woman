@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a214dac-ad1b-4736-ae40-6c0760a86e93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/partials/section-3.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/partials/section-3.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/section-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/section-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/partials/section-2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/partials/section-2.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,11 +116,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/style/partials/section-2.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="638">
-                  <caret line="532" column="1" selection-start-line="532" selection-start-column="1" selection-end-line="532" selection-end-column="1" />
+                <state relative-caret-position="672">
+                  <caret line="534" selection-start-line="534" selection-end-line="534" />
                   <folding>
                     <element signature="e#114#555#0" />
                     <element signature="e#513#549#0" />
@@ -135,7 +131,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="675">
@@ -210,7 +206,6 @@
         <option value="$PROJECT_DIR$/src/style/main.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/section-1.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/header.scss" />
-        <option value="$PROJECT_DIR$/src/style/partials/section-2.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/main.scss" />
         <option value="$PROJECT_DIR$/src/template/section-1.html" />
         <option value="$PROJECT_DIR$/src/template/section-2.html" />
@@ -219,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/template/section-3.html" />
         <option value="$PROJECT_DIR$/src/style/partials/section-3.scss" />
+        <option value="$PROJECT_DIR$/src/style/partials/section-2.scss" />
       </list>
     </option>
   </component>
@@ -344,12 +340,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568964383501</updated>
       <workItem from="1568964384572" duration="20547000" />
-      <workItem from="1568990948593" duration="783000" />
+      <workItem from="1568990948593" duration="872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21330000" />
+    <option name="totallyTimeSpent" value="21419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -504,23 +500,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="484" column="46" selection-start-line="484" selection-start-column="46" selection-end-line="484" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/section-2.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="532" column="1" selection-start-line="532" selection-start-column="1" selection-end-line="532" selection-end-column="1" />
+        <state relative-caret-position="672">
+          <caret line="534" selection-start-line="534" selection-end-line="534" />
           <folding>
             <element signature="e#114#555#0" />
             <element signature="e#513#549#0" />
             <element signature="e#563#786#0" />
             <element signature="e#588#780#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="484" column="46" selection-start-line="484" selection-start-column="46" selection-end-line="484" selection-end-column="46" />
         </state>
       </provider>
     </entry>

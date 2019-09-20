@@ -46,3 +46,23 @@ footer{
 	font-weight: 400;
 	line-height: 21px;
 }
+
+.soc_block{
+	display: flex;
+	flex-direction: column;
+	position: fixed;
+	top: 33vh;
+	right: 28px;
+	a{
+		cursor: pointer;
+		img{
+			display: block;
+		}
+		+a{
+			margin-top: 10px;
+		}
+		&:hover{
+			transform: scale(1.1);
+		}
+	}
+}

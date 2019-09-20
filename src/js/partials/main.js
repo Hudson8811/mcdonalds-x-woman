@@ -55,6 +55,33 @@ $(document).ready(function () {
     $(window).scroll(function () {
         $('.section-2 .year-1 .car').isInViewport().addClass('animation-car-desctop');
         $('.section-2 .year-4 .left').isInViewport({ tolerance: -200 }).addClass('animation');
+
+        var scroll = $(window).scrollTop();
+        var objectSelect1 = $(".section-3 .left-side .block-2");
+        var objectPosition1 = objectSelect1.offset().top;
+        console.log(scroll);
+        console.log(objectPosition1);
+        if (scroll > objectPosition1) {
+            $(".section-3 .right-side .scroll-block").removeClass("status-1");
+            $(".section-3 .right-side .scroll-block").removeClass("status-3");
+            $(".section-3 .right-side .scroll-block").addClass("status-2");
+        } else {
+            $(".section-3 .right-side .scroll-block").removeClass("status-2");
+            $(".section-3 .right-side .scroll-block").removeClass("status-3");
+            $(".section-3 .right-side .scroll-block").addClass("status-1");
+        }
+
+        var objectSelect2 = $(".section-3 .left-side .block-3");
+        var objectPosition2 = objectSelect2.offset().top;
+        if (scroll > objectPosition2) {
+            $(".section-3 .right-side .scroll-block").removeClass("status-1");
+            $(".section-3 .right-side .scroll-block").removeClass("status-2");
+            $(".section-3 .right-side .scroll-block").addClass("status-3");
+        } else if (scroll > objectPosition1) {
+            $(".section-3 .right-side .scroll-block").removeClass("status-2");
+            $(".section-3 .right-side .scroll-block").removeClass("status-1");
+            $(".section-3 .right-side .scroll-block").addClass("status-2");
+        }
     });
     $('.section-2 .year-4 .left').isInViewport({ tolerance: -200 }).addClass('animation');
     $('.section-2 .year-1 .car').isInViewport().addClass('animation-car-desctop');

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a214dac-ad1b-4736-ae40-6c0760a86e93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/partials/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/partials/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/partials/section-3.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/partials/section-3.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/template/section-2.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="491">
@@ -60,11 +62,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/template/section-3.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+                <state relative-caret-position="442">
+                  <caret line="26" column="31" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="31" />
                 </state>
               </provider>
             </entry>
@@ -91,11 +93,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/partials/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="672">
-                  <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+                <state relative-caret-position="603">
+                  <caret line="79" column="43" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
                 </state>
               </provider>
             </entry>
@@ -164,11 +166,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+                <state relative-caret-position="369">
+                  <caret line="244" column="55" selection-start-line="244" selection-start-column="55" selection-end-line="244" selection-end-column="55" />
                   <folding>
                     <element signature="e#109#119#0" />
                     <element signature="e#254#268#0" />
@@ -189,10 +191,6 @@
                     <element signature="e#2148#2170#0" />
                     <element signature="e#2508#2526#0" />
                     <element signature="e#2999#3013#0" />
-                    <element signature="e#2995#3666#0" />
-                    <element signature="e#3194#3212#0" />
-                    <element signature="e#3235#3312#0" />
-                    <element signature="e#3287#3309#0" />
                     <element signature="e#3182#3656#0" />
                     <element signature="e#3593#3629#0" />
                     <element signature="e#4187#4205#0" />
@@ -224,10 +222,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>yellow</find>
-      <find>animation_1</find>
       <find>title</find>
       <find>soldiers</find>
+      <find>yellow</find>
+      <find>animation_1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -243,9 +241,9 @@
         <option value="$PROJECT_DIR$/src/style/main.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/main.scss" />
         <option value="$PROJECT_DIR$/src/template/section-3.html" />
-        <option value="$PROJECT_DIR$/src/style/partials/section-3.scss" />
         <option value="$PROJECT_DIR$/src/style/partials/section-2.scss" />
         <option value="$PROJECT_DIR$/src/js/partials/main.js" />
+        <option value="$PROJECT_DIR$/src/style/partials/section-3.scss" />
       </list>
     </option>
   </component>
@@ -370,12 +368,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568964383501</updated>
-      <workItem from="1568964384572" duration="14806000" />
+      <workItem from="1568964384572" duration="15457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14806000" />
+    <option name="totallyTimeSpent" value="15457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -459,53 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/section-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding>
-            <element signature="e#109#119#0" />
-            <element signature="e#254#268#0" />
-            <element signature="e#382#426#0" />
-            <element signature="e#558#572#0" />
-            <element signature="e#496#510#0" />
-            <element signature="e#578#596#0" />
-            <element signature="e#655#677#0" />
-            <element signature="e#896#914#0" />
-            <element signature="e#908#930#0" />
-            <element signature="e#982#996#0" />
-            <element signature="e#1057#1075#0" />
-            <element signature="e#1233#1255#0" />
-            <element signature="e#1857#1879#0" />
-            <element signature="e#1905#1927#0" />
-            <element signature="e#1926#1940#0" />
-            <element signature="e#1938#1956#0" />
-            <element signature="e#2148#2170#0" />
-            <element signature="e#2508#2526#0" />
-            <element signature="e#2999#3013#0" />
-            <element signature="e#2995#3666#0" />
-            <element signature="e#3194#3212#0" />
-            <element signature="e#3235#3312#0" />
-            <element signature="e#3287#3309#0" />
-            <element signature="e#3182#3656#0" />
-            <element signature="e#3593#3629#0" />
-            <element signature="e#4187#4205#0" />
-            <element signature="e#4204#4241#0" />
-            <element signature="e#4253#4315#0" />
-            <element signature="e#4270#4307#0" />
-            <element signature="e#4329#4391#0" />
-            <element signature="e#4346#4383#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/section-1.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -528,6 +479,27 @@
             <element signature="e#1664#1823#0" />
             <element signature="e#1761#1813#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/libs/isInViewport.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/section-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="83" column="26" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/section-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -566,24 +538,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/libs/isInViewport.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/section-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="83" column="26" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/partials/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        <state relative-caret-position="603">
+          <caret line="79" column="43" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="244" column="55" selection-start-line="244" selection-start-column="55" selection-end-line="244" selection-end-column="55" />
+          <folding>
+            <element signature="e#109#119#0" />
+            <element signature="e#254#268#0" />
+            <element signature="e#382#426#0" />
+            <element signature="e#558#572#0" />
+            <element signature="e#496#510#0" />
+            <element signature="e#578#596#0" />
+            <element signature="e#655#677#0" />
+            <element signature="e#896#914#0" />
+            <element signature="e#908#930#0" />
+            <element signature="e#982#996#0" />
+            <element signature="e#1057#1075#0" />
+            <element signature="e#1233#1255#0" />
+            <element signature="e#1857#1879#0" />
+            <element signature="e#1905#1927#0" />
+            <element signature="e#1926#1940#0" />
+            <element signature="e#1938#1956#0" />
+            <element signature="e#2148#2170#0" />
+            <element signature="e#2508#2526#0" />
+            <element signature="e#2999#3013#0" />
+            <element signature="e#3182#3656#0" />
+            <element signature="e#3593#3629#0" />
+            <element signature="e#4187#4205#0" />
+            <element signature="e#4204#4241#0" />
+            <element signature="e#4253#4315#0" />
+            <element signature="e#4270#4307#0" />
+            <element signature="e#4329#4391#0" />
+            <element signature="e#4346#4383#0" />
+          </folding>
         </state>
       </provider>
     </entry>

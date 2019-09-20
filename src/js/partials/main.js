@@ -115,4 +115,7 @@ $(document).ready(function () {
         }
         return false;
     });
+
+
+    stickybits('.right-side .scroll-block', {stickyBitStickyOffset: 75});
 });

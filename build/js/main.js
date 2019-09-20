@@ -91,4 +91,22 @@ $(document).ready(function () {
     });
     $('.section-2 .year-4 .left').isInViewport({ tolerance: -200 }).addClass('animation');
     $('.section-2 .year-1 .car').isInViewport().addClass('animation-car-desctop');
+
+    $('.section-2 .year-4 .bottom').scroolly([
+        {
+            from: 'el-top = vp-bottom',
+            to: 'el-bottom = vp-top',
+            cssFrom: { left: '220px' },
+            cssTo: { left: '500px' }
+        }
+    ]);
+
+    $('.section-2 .year-6 .bottom .front').scroolly([
+        {
+            from: 'el-top = vp-bottom',
+            to: 'el-bottom = vp-top',
+            cssFrom: { right: '10px' },
+            cssTo: { right: '300px' }
+        }
+    ]);
 });

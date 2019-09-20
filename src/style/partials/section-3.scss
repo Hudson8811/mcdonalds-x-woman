@@ -82,6 +82,7 @@
         display: flex;
         flex-direction: column;
         align-items: flex-start;
+        line-height: 1;
         .purple{
           color: #6b008a;
           font-size: 40px;
@@ -333,17 +334,18 @@
     margin-bottom: 40px;
   }
   .section-3{
-    padding-top: 30px;
-    margin: 0 20px;
-    width: 100%;
+    padding: 30px 20px 0;
+    margin: 0;
     color: #000000;
     font-size: 16px;
     line-height: 19px;
     .flex-block{
       display: block;
       margin: 0 auto;
+      width: 100%;
       .left-side{
         width: 100%;
+        padding-bottom: 1px;
       }
       .right-side{
         display: none;
@@ -363,15 +365,72 @@
 
   .section-3 .left-side .block-1 .image-block{
     height: 530px;
-    background-position: center 115px;
+    background-position: center 97px;
     background-size: 427px;
-    margin: 0 auto;
+    margin: 15px auto 0;
   }
   .section-3 .left-side .block-1 .image-block .text-block{
     position: static;
     margin: 0 auto;
     align-items: center;
   }
+  .section-3 .left-side .text .underline{
+    display: inline;
+  }
+  .section-3 .left-side .text .underline::after{
+    display: none;
+  }
+  .section-3 .left-side .comment-block{
+    margin: 30px 0;
+    width: 100%;
+  }
+  .section-3 .left-side .comment-block .comment {
+    font-size: 14px;
+    padding: 20px 15px 40px;
+    box-sizing: border-box;
+    line-height: 18px;
+  }
 
 
+  .section-3 .left-side .block-3 .image-2 > img{
+    display: none;
+  }
+
+  .section-3 .left-side .life-title {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .section-3 .left-side .comment-block .name {
+    font-size: 16px;
+    line-height: 19px;
+    padding: 10px 33px;
+  }
+  .section-3 .left-side .block-3 .image-2 .text-block-1{
+    position: static;
+    width: 230px;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .section-3 .left-side .block-3 .image-2 .text-block-2{
+    max-width: 280px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+  .section-3 .left-side .block-3 .image-1{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .section-3 .left-side .block-3 .image-1 img{
+    max-width: 100%;
+  }
+  .section-3 .left-side .block-3 .image-1 .text-block{
+    position: static;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 35px;
+  }
 }

@@ -414,15 +414,12 @@
 @media screen and  (max-width:1000px) {
 
 
-
-    .section-2{
-        .mob-image{
-            display: flex;
-            justify-content: center;
-            img{
-                display: block;
-                max-width: 100%;
-            }
+    .mob-image{
+        display: flex;
+        justify-content: center;
+        img{
+            display: block;
+            max-width: 100%;
         }
     }
     .section-2 .btn{
@@ -446,7 +443,7 @@
         border: none;
         margin: 0 20px;
         border-left: 2px solid #ffbd0e;
-        width: 100%;
+        width: calc(100% - 40px);
         height: auto;
         padding-left: 0;
     }

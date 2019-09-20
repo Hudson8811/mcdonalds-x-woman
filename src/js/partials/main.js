@@ -59,8 +59,6 @@ $(document).ready(function () {
         var scroll = $(window).scrollTop();
         var objectSelect1 = $(".section-3 .left-side .block-2");
         var objectPosition1 = objectSelect1.offset().top;
-        console.log(scroll);
-        console.log(objectPosition1);
         if (scroll > objectPosition1) {
             $(".section-3 .right-side .scroll-block").removeClass("status-1");
             $(".section-3 .right-side .scroll-block").removeClass("status-3");

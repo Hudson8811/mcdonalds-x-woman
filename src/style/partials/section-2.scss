@@ -100,7 +100,6 @@
                     animation-name: animation_1;
                     animation-duration: 1.7s;
                     animation-iteration-count: 1;
-                    animation-direction: alternate;
                     animation-fill-mode: both;
                 }
 
@@ -284,6 +283,13 @@
             position: absolute;
             left: -42px;
             top: -76px;
+            &.animation {
+                animation-name: animation_3;
+                animation-duration: 1.7s;
+                animation-iteration-count: 1;
+                animation-direction: alternate;
+                animation-fill-mode: both;
+            }
         }
         .bottom{
             position: absolute;
@@ -392,5 +398,14 @@
     100% {
         transform: translate3d(18px, 0px, 0) rotate(6deg) scale(1);
         opacity: 1;
+    }
+}
+
+
+@keyframes animation_3 {
+    0% {}
+
+    100% {
+        top: -146px;
     }
 }

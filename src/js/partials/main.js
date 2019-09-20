@@ -36,7 +36,7 @@ $(document).ready(function () {
             cssTo: { left: '115px' }
         }
     ]);
-
+/*
     var carAnim=true;//анимация одноразовая. поэтому делаем проверку
     if(carAnim && $('.section-2 .year-1 .car').isInViewport({ tolerance: -100})){
         $('.section-2 .year-1 .car').addClass('animation-car-desctop');
@@ -50,4 +50,12 @@ $(document).ready(function () {
             carAnim=false;
         }
     });
+*/
+
+    $(window).scroll(function () {
+        $('.section-2 .year-1 .car').isInViewport().addClass('animation-car-desctop');
+        $('.section-2 .year-4 .left').isInViewport({ tolerance: -200 }).addClass('animation');
+    });
+    $('.section-2 .year-4 .left').isInViewport({ tolerance: -200 }).addClass('animation');
+    $('.section-2 .year-1 .car').isInViewport().addClass('animation-car-desctop');
 });

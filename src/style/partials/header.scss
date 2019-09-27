@@ -18,6 +18,13 @@ header {
     }
 
     .logo-left {
+        display: block;
+        width: max-content;
+        height: 100%;
+        img{
+            display: block;height: 100%;
+            max-width: none;
+        }
         &:hover {
             opacity: .8;
         }
@@ -140,6 +147,17 @@ header {
 }
 
 @media screen and  (max-width:1000px) {
+
+
+    header img{
+        display: block;
+        height: 100%;
+    }
+    header .logo-left{
+        display: block;
+        width: max-content;
+        height: 100%;
+    }
     .header-fixed-space {
         height: 55px;
     }

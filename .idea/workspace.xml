@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a214dac-ad1b-4736-ae40-6c0760a86e93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style/partials/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/partials/header.scss" afterDir="false" />
     </list>
@@ -85,7 +86,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/style/partials/main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="841">
+                <state relative-caret-position="1088">
                   <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
                 </state>
               </provider>
@@ -95,7 +96,7 @@
             <entry file="file://$PROJECT_DIR$/src/js/partials/main.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1802">
-                  <caret line="106" column="25" lean-forward="true" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+                  <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -147,7 +148,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="318">
+                <state relative-caret-position="4165">
                   <caret line="245" column="16" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="16" />
                 </state>
               </provider>
@@ -161,14 +162,10 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/style/partials/header.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="637">
-                  <caret line="244" column="1" lean-forward="true" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
+                <state relative-caret-position="391">
+                  <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
                   <folding>
                     <element signature="e#20#41#0" />
-                    <element signature="e#50#2135#0" />
-                    <element signature="e#238#292#0" />
-                    <element signature="e#309#369#0" />
-                    <element signature="e#327#363#0" />
                     <element signature="e#381#1055#0" />
                     <element signature="e#496#984#0" />
                     <element signature="e#666#974#0" />
@@ -275,6 +272,17 @@
             <path>
               <item name="mcdonalds-x-woman" type="b2602c69:ProjectViewProjectNode" />
               <item name="mcdonalds-x-woman" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcdonalds-x-woman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mcdonalds-x-woman" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mcdonalds-x-woman" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mcdonalds-x-woman" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -373,8 +381,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gulp.js.style:build" />
         <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Gulp.js.style:build" />
       </list>
     </recent_temporary>
   </component>
@@ -394,20 +402,21 @@
       <workItem from="1568994333712" duration="76000" />
       <workItem from="1568995042009" duration="1343000" />
       <workItem from="1568996724191" duration="1016000" />
-      <workItem from="1569422363160" duration="43000" />
+      <workItem from="1569422363160" duration="642000" />
+      <workItem from="1569575093165" duration="448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24052000" />
+    <option name="totallyTimeSpent" value="25099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49238577" visible="true" weight="0.17249602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49111676" visible="true" weight="0.17249602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Gulp" order="2" sideWeight="0.5076142" side_tool="true" visible="true" weight="0.17249602" />
+      <window_info id="Gulp" order="2" sideWeight="0.50888324" side_tool="true" visible="true" weight="0.17249602" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,10 +500,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/partials/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1802">
-          <caret line="106" column="25" lean-forward="true" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -538,7 +554,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/section-3.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="4165">
           <caret line="245" column="16" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="16" />
         </state>
       </provider>
@@ -546,23 +562,12 @@
     <entry file="file://$PROJECT_DIR$/src/style/partials/main-adaptive.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/partials/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/partials/header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="244" column="1" lean-forward="true" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
+        <state relative-caret-position="391">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="e#20#41#0" />
-            <element signature="e#50#2135#0" />
-            <element signature="e#238#292#0" />
-            <element signature="e#309#369#0" />
-            <element signature="e#327#363#0" />
             <element signature="e#381#1055#0" />
             <element signature="e#496#984#0" />
             <element signature="e#666#974#0" />
